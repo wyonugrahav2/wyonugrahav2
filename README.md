@@ -21,7 +21,7 @@ Informatics Engineering student who just loves coding. Let's build something coo
 </p>
 
 ---
-
+<p align="center">
 <img width="512" height="512" alt="saber" src="https://github.com/user-attachments/assets/139fb2ce-1948-4bf2-884e-a0031f47b997" />
 
 ---
