@@ -32,6 +32,8 @@ Informatics Engineering student who just loves coding. Let's build something coo
   <img src="https://img.shields.io/badge/Minecraft-000000?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
   <img src="https://img.shields.io/badge/GTA_V-008000?style=for-the-badge&logo=grand-theft-auto&logoColor=white" alt="GTA V" />
 
+---
+
 <h2 align="center">📊 My GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wyonugrahav2&theme=tokyonight&hide_border=true" alt="Wytta07's GitHub Streak" height="180px" />
@@ -42,3 +44,4 @@ Informatics Engineering student who just loves coding. Let's build something coo
 <p align="center">
   <em>"Learning consistently is more important than claiming expertise."</em>
 </p>
+---
