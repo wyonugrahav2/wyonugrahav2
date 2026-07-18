@@ -24,6 +24,8 @@ Informatics Engineering student who just loves coding. Let's build something coo
 
 <img width="500" height="270" alt="b974be96ca0aade19710eba69de7e813" src="https://github.com/user-attachments/assets/146fcaf8-f030-4bae-a02f-b65f763cebc2" />
 
+<img width="512" height="512" alt="saber" src="https://github.com/user-attachments/assets/139fb2ce-1948-4bf2-884e-a0031f47b997" />
+
 ---
 
 ## 🎮 Hobbies & Interests
