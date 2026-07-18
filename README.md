@@ -26,7 +26,9 @@ Informatics Engineering student who just loves coding. Let's build something coo
 
 ---
 
-## 📊 My GitHub Stats
+## 🎮 Hobbies & Interests
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wyonugrahav2&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180px" />
+  <img src="https://img.shields.io/badge/Minecraft-000000?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
+  <img src="https://img.shields.io/badge/GTA_V-008000?style=for-the-badge&logo=grand-theft-auto&logoColor=white" alt="GTA V" />
+  <img src="https://img.shields.io/badge/J--Pop_&_Adele-FF69B4?style=for-the-badge&logo=spotify&logoColor=white" alt="Music" />
 </p>
