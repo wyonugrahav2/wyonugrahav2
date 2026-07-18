@@ -28,6 +28,5 @@ Informatics Engineering student who just loves coding. Let's build something coo
 
 ## 📊 My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wyonugrahav2&show_icons=true&theme=radial" alt="Wytta07's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyonugrahav2&layout=compact&theme=radial" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wyonugrahav2&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180px" />
 </p>
