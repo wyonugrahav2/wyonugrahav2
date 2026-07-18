@@ -33,8 +33,9 @@ Informatics Engineering student who just loves coding. Let's build something coo
   <img src="https://img.shields.io/badge/GTA_V-008000?style=for-the-badge&logo=grand-theft-auto&logoColor=white" alt="GTA V" />
 
 ## 📊 GitHub Statistics
+<h2 align="center">📊 My GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FikryYay4&theme=default&hide_border=true&card_width=495" alt="Fikry's GitHub Streak" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wyonugrahav2&theme=tokyonight&hide_border=true" alt="Wytta07's GitHub Streak" height="180px" />
 </p>
 
 <br>
