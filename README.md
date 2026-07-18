@@ -5,7 +5,7 @@ Informatics Engineering student who just loves coding. Let's build something coo
 ---
 
 ## 💫 About Me
-- 🔭 I’m currently working on college projects and expanding my web development skills.
+- 🫡 I’m currently working on college projects and expanding my web development skills.
 - 🐍 Main language of choice: **Python** 
 - 🎮 When I'm not coding, you can find me building things in **Minecraft** or play to **the sims 3 or 4**.
 - ⚡ Fun fact: I really like **Saber** from the Fate series! ⚔️
