@@ -32,3 +32,13 @@ Informatics Engineering student who just loves coding. Let's build something coo
   <img src="https://img.shields.io/badge/Minecraft-000000?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
   <img src="https://img.shields.io/badge/GTA_V-008000?style=for-the-badge&logo=grand-theft-auto&logoColor=white" alt="GTA V" />
 
+## 📊 GitHub Statistics
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FikryYay4&theme=default&hide_border=true&card_width=495" alt="Fikry's GitHub Streak" height="180px" />
+</p>
+
+<br>
+
+<p align="center">
+  <em>"Learning consistently is more important than claiming expertise."</em>
+</p>
