@@ -23,3 +23,11 @@ Informatics Engineering student who just loves coding. Let's build something coo
 ---
 
 <img width="500" height="270" alt="b974be96ca0aade19710eba69de7e813" src="https://github.com/user-attachments/assets/146fcaf8-f030-4bae-a02f-b65f763cebc2" />
+
+---
+
+## 📊 My GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=wyonugrahav2&show_icons=true&theme=tokyonight&hide_border=true" alt="Wytta07's GitHub stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyonugrahav2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+</p>
