@@ -34,16 +34,4 @@ Informatics Engineering student who just loves coding. Let's build something coo
   <img src="https://img.shields.io/badge/PlayStation_3-00439C?style=for-the-badge&logo=playstation3&logoColor=white" alt="PS3" />
   <img src="https://img.shields.io/badge/PlayStation_4-00439C?style=for-the-badge&logo=playstation4&logoColor=white" alt="PS4" />
 </p>
----
-
-<h2 align="center">📊 My GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wyonugrahav2&theme=tokyonight&hide_border=true" alt="Wytta07's GitHub Streak" height="180px" />
-</p>
-
-<br>
-
-<p align="center">
-  <em>"Learning consistently is more important than claiming expertise."</em>
-</p>
 
