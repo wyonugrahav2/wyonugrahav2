@@ -24,9 +24,8 @@ Informatics Engineering student who just loves coding. Let's build something coo
 
 ## 📊 Most Used Languages
 <p align="left">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards/most-used-languages?username=wyonugrahav2&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wyonugrahav2&theme=radical" alt="Top Languages" />
 </p>
-
 ---
 <p align="center">
 <img width="500" height="281" alt="aa13207e6e2903f972d5fdaaab0a5396" src="https://github.com/user-attachments/assets/9be56c03-5f7b-47f4-9b41-8557dddfbb36" />
