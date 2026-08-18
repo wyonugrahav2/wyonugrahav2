@@ -48,13 +48,21 @@ Informatics Engineering student who just loves coding. Let's build something coo
 ### 🎨 Language Breakdown
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyonugrahav2&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages Donut Chart" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wyonugrahav2&layout=donut&theme=tokyonight&hide_border=true" alt="Language Breakdown" />
 </p>
 
 ---
 
-### 🎨 Language Breakdown
+### 🎨 GitHub Language & Skill Trophies
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=wyonugrahav2&theme=tokyonight" alt="Top Languages Pie Chart" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wyonugrahav2&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🔥 Commit Streak & Activity Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wyonugrahav2&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
