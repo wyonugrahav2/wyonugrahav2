@@ -35,3 +35,8 @@ Informatics Engineering student who just loves coding. Let's build something coo
   <img src="https://img.shields.io/badge/PlayStation_4-00439C?style=for-the-badge&logo=playstation4&logoColor=white" alt="PS4" />
 </p>
 
+### 📉 Activity & Contribution Trend
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wyonugrahav2&theme=github-dark&hide_border=true&area=true" width="100%" alt="Contribution Stock Chart" />
+</p>
