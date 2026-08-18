@@ -50,11 +50,3 @@ Informatics Engineering student who just loves coding. Let's build something coo
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wyonugrahav2&theme=tokyonight" alt="Top Languages Pie Chart" />
 </p>
-
----
-
-### ⏳ Most Used Languages (Coding Time)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME_WAKATIME_KAMU&layout=compact&theme=tokyonight" alt="Wakatime Languages" />
-</p>
