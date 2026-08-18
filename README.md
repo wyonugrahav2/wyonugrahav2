@@ -42,3 +42,11 @@ Informatics Engineering student who just loves coding. Let's build something coo
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wyonugrahav2&theme=github-dark&hide_border=true&area=true" width="100%" alt="Contribution Stock Chart" />
 </p>
+
+---
+
+### 📊 Top Languages / Language Distribution
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyonugrahav2&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages Donut Chart" />
+</p>
