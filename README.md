@@ -45,8 +45,16 @@ Informatics Engineering student who just loves coding. Let's build something coo
 
 ---
 
-### 🥧 Language Breakdown
+### 🎨 Language Breakdown
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wyonugrahav2&theme=tokyonight" alt="Top Languages Pie Chart" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyonugrahav2&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages Donut Chart" />
+</p>
+
+---
+
+### 🎨 Language Breakdown
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=wyonugrahav2&theme=tokyonight" alt="Top Languages Pie Chart" />
 </p>
