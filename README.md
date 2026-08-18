@@ -35,6 +35,8 @@ Informatics Engineering student who just loves coding. Let's build something coo
   <img src="https://img.shields.io/badge/PlayStation_4-00439C?style=for-the-badge&logo=playstation4&logoColor=white" alt="PS4" />
 </p>
 
+---
+
 ### 📉 Activity & Contribution Trend
 
 <p align="center">
