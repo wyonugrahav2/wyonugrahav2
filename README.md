@@ -17,27 +17,3 @@ Informatics Engineering student who just loves coding. Let's build something coo
 
 ---
 
-## 🎮 Hobbies & Interests
-<p align="left">
-  <img src="https://img.shields.io/badge/Minecraft-000000?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
-  <img src="https://img.shields.io/badge/GTA_V-008000?style=for-the-badge&logo=grand-theft-auto&logoColor=white" alt="GTA V" />
-  <img src="https://img.shields.io/badge/PlayStation_3-00439C?style=for-the-badge&logo=playstation3&logoColor=white" alt="PS3" />
-  <img src="https://img.shields.io/badge/PlayStation_4-00439C?style=for-the-badge&logo=playstation4&logoColor=white" alt="PS4" />
-</p>
-
----
-
-### 📉 Activity & Contribution Trend
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wyonugrahav2&theme=github-dark&hide_border=true&area=true" width="100%" alt="Contribution Stock Chart" />
-</p>
-
----
-
-### 🎨 Language Breakdown
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wyonugrahav2&layout=donut&theme=tokyonight&hide_border=true" alt="Language Breakdown" />
-</p>
-
