@@ -1,4 +1,4 @@
-# Hi there, I'm Wytta07! 👋 
+# Hi there, I'm Wyo! 👋 
 
 Informatics Engineering student who just loves coding. Let's build something cool! 🚀
 
